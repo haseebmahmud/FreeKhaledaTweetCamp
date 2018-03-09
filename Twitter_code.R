@@ -6,10 +6,10 @@ if (!require("twitteR")) install.packages("twitteR")
 library(twitteR)
 
 # Authentication
-api_key <- "tyD2d2DegmnX3ZDlK9SHi51hr"
-api_secret <- "SFCI5zdXRrcfff9dFVd3ForGSnPnJhXR1KgZcCRkccqsJB4V7W"
-access_token <- "15199563-vLAUrFP0ZgjkYdTRvLxvcYR3d4eyhbiQlerT8A6YB"
-access_token_secret <- "t5NSkT5ZbWqvqp0YbmorWwnMu1U8Ys6dampqds4mAI2CR"
+api_key <- "XXXXX"
+api_secret <- "XXXXX"
+access_token <- "XXXXX"
+access_token_secret <- "XXXXX"
 
 setup_twitter_oauth(api_key,api_secret)
 
